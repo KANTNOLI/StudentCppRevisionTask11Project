@@ -26,4 +26,6 @@
 *	[output 5]: false
 */
 
-//taskX
+bool taskX(long long number) {
+	return 0;
+}

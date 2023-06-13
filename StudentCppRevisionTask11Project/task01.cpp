@@ -30,4 +30,18 @@
 *	[output 5]: 0
 */
 
-//task01
+int task01(int number){
+	int maxDivisor = 0;
+	int divisor = 1;
+
+	if (number % 2 == 0) {
+		return number / 2;
+	}
+	else if (number % 5 == 0) {
+		divisor = 5;
+
+
+	}
+	 
+	return 0;
+}

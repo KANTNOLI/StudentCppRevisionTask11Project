@@ -34,4 +34,6 @@
 *	[output 6]: 0
 */
 
-//task05
+int task05(int fNumber, int sNumber, int tNumber) {
+	return 0;
+}
